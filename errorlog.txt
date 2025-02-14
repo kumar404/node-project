@@ -5,7 +5,7 @@ node:9348) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: use
 (node:9348) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
 
 
-solution
+SOLUTION
 
 const mongoose = require('mongoose');
 
